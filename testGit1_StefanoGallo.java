@@ -1,6 +1,6 @@
 public class Test {
 
-    static String greetings = "Hello, Stefano!"
+    static String greetings = "Hello, Stefanooooo"
 
 	public static void main(String[] args){
 
